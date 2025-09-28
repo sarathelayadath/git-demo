@@ -4,3 +4,4 @@
  sample string2
  sample string3
  sample string4
+ sample string5
