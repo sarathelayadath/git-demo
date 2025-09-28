@@ -13,3 +13,4 @@
  sample string92
  sample string10
  sample string10-1
+ sample string10-2
